@@ -6,7 +6,6 @@ Created on Wed Dec 19 10:20:28 2018
 """
 
  
-# 函数的更多使用方法参见LightGBM官方文档：http://lightgbm.readthedocs.io/en/latest/Python-Intro.html
  
 import lightgbm as lgb
 import pandas as pd
